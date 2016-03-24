@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown #redcarpet
-highlighter:      pygments.rb
+highlighter:      rouge
 gems:
 - jekyll-paginate
 - jekyll-gist
