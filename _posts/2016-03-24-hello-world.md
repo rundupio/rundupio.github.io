@@ -18,5 +18,4 @@ Also, I started to run from last year. Begin with finishing 1 miles till now I'm
 <img src="http://cdn.runrocknroll.com/wp-content/sites/8/2015/03/logo_sf.png" alt="placeholder" title="logo" />
 </center>
 
-Go Go Go, 2016!
 
