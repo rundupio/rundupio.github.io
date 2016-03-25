@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-disablecomments: true
 ---
 
 <p class="message">
