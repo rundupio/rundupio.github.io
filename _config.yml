@@ -9,15 +9,16 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            rundupio's Blog
 tagline:          'A Jekyll theme'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+url:              http://rundupio.github.io
 baseurl:          /
+disqusid:	  'kkZlT5tYIYCm'
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'rundupio'
+  url:            https://github.com/rundupio
 
 paginate:         5
 
@@ -25,4 +26,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/rundupio
